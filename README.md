@@ -35,4 +35,4 @@ O projeto está dividido nas seguintes partes principais:
 
 1. **Clone o Repositório:**
    ```bash
-   git clone [https://github.com/seu-usuario/RoboNavControl.git](https://github.com/mauricio-sj/ENGD33_Grupo_IMU_GPS/)
+   git clone (https://github.com/mauricio-sj/ENGD33_Grupo_IMU_GPS/)
